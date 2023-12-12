@@ -1,2 +1,2 @@
 # togetherwithas.github.io
-TogetherWithAS
+TogetherWithAS 2.0
