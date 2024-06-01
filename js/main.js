@@ -115,3 +115,11 @@
     
 })(jQuery);
 
+function showiban() {
+    var text = document.getElementById("iban");
+    if (text.style.display === "none") {
+      text.style.display = "block";
+    } else {
+      text.style.display = "none";
+    }
+  }
